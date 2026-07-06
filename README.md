@@ -12,7 +12,7 @@ This project is an interactive Excel dashboard designed to analyze Hospital Emer
 - Conditional Formatting
 
 -  Dashboard Preview
--  [Dashboard](Hospital dashboard 06.png)
+-  Hospital dashboard 06.png
 
 ---
 
