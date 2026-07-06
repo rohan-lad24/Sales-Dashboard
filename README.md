@@ -52,5 +52,5 @@ This project is an interactive Excel dashboard designed to analyze Hospital Emer
 ## 📁 Files Included
 
 - Hospital Emergency Room Dashboard.xlsx
-- Hospital dashboard
+- Hospital dashboard 06.png
 - README.md
